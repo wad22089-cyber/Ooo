@@ -1,0 +1,15 @@
+{
+  "appId": "com.walid.alrashid.customs",
+  "appName": "نظام القيمة الجمركية - وليد الراشد",
+  "webDir": "www",
+  "server": {
+    "url": "https://ais-pre-f5i5rnxt2vur7dfmtdgo5m-972325761340.europe-west2.run.app",
+    "cleartext": false,
+    "allowNavigation": [
+      "*"
+    ]
+  },
+  "android": {
+    "allowMixedContent": true
+  }
+}
